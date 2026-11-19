@@ -21,7 +21,7 @@
   </a>
 </p>
 
-Collect Google Gemini answers through the **Scrapeless LLM Chat Scraper** API, including Markdown responses and structured citation metadata such as titles, URLs, snippets, and highlights, without reverse-engineering the Gemini UI, maintaining browsers, or building your own anti-blocking stack.
+Collect Google Gemini answers through the **Scrapeless AI Scraper** API, including Markdown responses and structured citation metadata such as titles, URLs, snippets, and highlights, without reverse-engineering the Gemini UI, maintaining browsers, or building your own anti-blocking stack.
 
 Use this repo when you need a repeatable way to monitor Gemini answers for GEO and AI search visibility, compare prompts across regions, audit cited sources, or pipe AI responses into analytics and automation workflows.
 
@@ -164,7 +164,7 @@ Pipe Gemini answers into internal dashboards, knowledge-base QA systems, spreads
 
 | Benefit | What it means for your team |
 | ------- | --------------------------- |
-| One unified API | Query Gemini through the same Scrapeless LLM Chat Scraper workflow used for other AI answer engines. |
+| One unified API | Query Gemini through the same Scrapeless AI Scraper workflow used for other AI answer engines. |
 | Structured output | Receive Markdown answers, prompts, and rich citation metadata (titles, URLs, snippets, highlights, favicons) in a developer-friendly response. |
 | Less maintenance | Avoid building browser automation, UI selectors, proxy rotation, retries, and anti-blocking logic yourself. |
 | Region-aware analysis | Use country inputs to compare localized AI answers and source citations. |
@@ -174,7 +174,7 @@ Pipe Gemini answers into internal dashboards, knowledge-base QA systems, spreads
 
 ### What is Gemini Scraper?
 
-Gemini Scraper is a Scrapeless LLM Chat Scraper actor that sends prompts to Google Gemini and returns structured answer data, including the Markdown response, the original prompt, and rich citation metadata.
+Gemini Scraper is a Scrapeless AI Scraper actor that sends prompts to Google Gemini and returns structured answer data, including the Markdown response, the original prompt, and rich citation metadata.
 
 ### Do I need to run a browser or proxy pool?
 
@@ -198,8 +198,8 @@ Make sure your use case complies with applicable laws, platform terms, privacy r
 
 ## Learn more
 
-- [Scrapeless LLM Chat Scraper documentation](https://docs.scrapeless.com/en/llm-chat-scraper/quickstart/introduction/)
-- [Supported LLM Chat Scraper actors](https://docs.scrapeless.com/en/llm-chat-scraper/quickstart/introduction/)
+- [Scrapeless AI Scraper documentation](https://docs.scrapeless.com/en/llm-chat-scraper/quickstart/introduction/)
+- [Supported AI Scraper actors](https://docs.scrapeless.com/en/llm-chat-scraper/quickstart/introduction/)
 - [Scrapeless dashboard](https://app.scrapeless.com/passport/login?redirect=/quick-start)
 - [Scrapeless website](https://www.scrapeless.com/en)
 
